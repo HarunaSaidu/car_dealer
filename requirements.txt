@@ -133,5 +133,4 @@ webencodings==0.5.1
 websockets==10.3
 xdg==5
 xkit==0.0.0
-yt-dlp==2022.6.29
 zipp==1.0.0
